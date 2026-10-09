@@ -1,0 +1,8 @@
+{
+  "name": "KAN frigo | Klime, Rashladne Komore, Toplotne Pumpe, VRV i Multi Sistemi",
+  "description": "KAN frigo Beograd: Ugradnja i servis klima uređaja, izrada i servis rashladnih komora, montaža i servis toplotnih pumpi, VRV sistema i multi sistema. Tel: 065 8282289.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}

@@ -1,0 +1,9 @@
+@import "tailwindcss";
+
+html {
+  scroll-behavior: smooth;
+}
+
+.safe-area-bottom {
+  padding-bottom: calc(0.625rem + env(safe-area-inset-bottom, 0px));
+}
